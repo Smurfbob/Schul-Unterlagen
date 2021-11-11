@@ -1,5 +1,34 @@
 # Kündigungen
 
+## Ordentliche und Außerordentliche Kündigung
+
++ Eine Kündigung kann entweder Außerordentlich sein, oder Ordentlich.
+
+### Ordentliche Kündigung
+
++ Bei einer Ordentlichen Kündigung werden Fristen und Soziale Umstände beachtet und es gibt einen klaren Kündigungsgrund, der entweder im Verhalten, der Person, oder im Betrieb selbst liegt.
+  
+### Außerordentliche Kündigung
+
++ Eine Außerordentliche Kündigung liegt dann vor, wenn ein wichtiger Grund im Sinne des [§ 626 BGB](https://www.gesetze-im-internet.de/bgb/__626.html) genannt wird. In diesem Fall gilt keine Kündigungsfrist.
+
++ Damit eine Außerordentliche Kündigung geltend gemacht werden kann, müssen andere Maßnahmen erschöpft sein (Abmahnungen, Versetzung, etc.)
+
++ Eine Außerordentliche Kündigung kann zum Beispiel dadurch begründet werden, dass eine weitere Zusammenarbeit nicht weiter zugemutet werden kann, wobei alle Umstände des Einzelfalles abgewägt werden müssen.
+
++ Sobald der Arbeitgeber von dem Außerodentlichem Kündigungsgrund erfährt, muss er dem Arbeitnehmer inerhalb von zwei Wochen kündigen und dem Arbeitnehmer unverzüglich über die Kündigung in Kenntnis setzen.
+  
+### Konkrete Kündigungsgründe
+
+|Arbeitgeber|Arbeitnehmer|
+|-|-|
+|Anhaltende Krankheite des Arbeitnehmers|Eigene Dienstunfähigkeit|
+|Längere Abwesenheit|Arbeigeber verletzt führsorge und Vergütungspflicht|
+|Verletzung der Dienstleistung, oder Schweigepflicht, oder des Wettbewerbsverbotes||
+  
+
+---
+
 ## Prüfschema einer Kündigung
 
 ### Ausgang der Kündigung
@@ -62,6 +91,10 @@ Entscheidet das Gericht gegen den Arbeitnehmer, so hat er auch hier wieder die M
 
 + Im falle einer betrieblich begründeten Kündigung, könnten noch soziale Gründe für eine Ungültigkeitserklärung entscheidend  sein.
 
+
+---
+
+
 ## Kündigunsfristen
 
 + Bei einer Kündigung sind bestimmte Fristen einzuhalten. Diese sind im
@@ -73,6 +106,8 @@ Entscheidet das Gericht gegen den Arbeitnehmer, so hat er auch hier wieder die M
 
 + Für eine Kündigung durch den Arbeitgeber beträgt die Kündigungsfrist, wenn das Arbeitsverhältnis in dem Betrieb oder Unternehmen 
 
++ Ist das Arbeitsverhältnis kürzer als zwei Jahre, beträgt die Frist vier Wochen, und die Kündigung ist auch am 15 des Monats erlaubt, zuzüglich zum Ende des Kalendermonats.
+
 1. zwei Jahre bestanden hat, einen Monat zum Ende eines Kalendermonats,
 2. fünf Jahre bestanden hat, zwei Monate zum Ende eines Kalendermonats,
 3. acht Jahre bestanden hat, drei Monate zum Ende eines Kalendermonats,
@@ -80,6 +115,14 @@ Entscheidet das Gericht gegen den Arbeitnehmer, so hat er auch hier wieder die M
 5. zwölf Jahre bestanden hat, fünf Monate zum Ende eines Kalendermonats,
 6. 15 Jahre bestanden hat, sechs Monate zum Ende eines Kalendermonats,
 7. 20 Jahre bestanden hat, sieben Monate zum Ende eines Kalendermonats.
+
+### Sonderkündigungsfristen für Kleinbetriebe
+
++ Bei Kleinbetrieben gelten folgende Fristen
+
+![Empty](SonderkündigungKlein.png)
+
+---
 
 
 
