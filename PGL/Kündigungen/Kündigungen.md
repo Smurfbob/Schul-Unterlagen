@@ -16,14 +16,14 @@
 
 + Eine Außerordentliche Kündigung kann zum Beispiel dadurch begründet werden, dass eine weitere Zusammenarbeit nicht weiter zugemutet werden kann, wobei alle Umstände des Einzelfalles abgewägt werden müssen.
 
-+ Sobald der Arbeitgeber von dem Außerodentlichem Kündigungsgrund erfährt, muss er dem Arbeitnehmer inerhalb von zwei Wochen kündigen und dem Arbeitnehmer unverzüglich über die Kündigung in Kenntnis setzen.
++ Sobald der Arbeitgeber von dem Außerodentlichem Kündigungsgrund erfährt, muss er dem Arbeitnehmer innerhalb von zwei Wochen kündigen und dem Arbeitnehmer unverzüglich über die Kündigung in Kenntnis setzen.
   
-### Konkrete Kündigungsgründe
+### Konkrete Kündigungsgründe bei einer Außerordentlichen Kündigung
 
 |Arbeitgeber|Arbeitnehmer|
 |-|-|
-|Anhaltende Krankheite des Arbeitnehmers|Eigene Dienstunfähigkeit|
-|Längere Abwesenheit|Arbeigeber verletzt führsorge und Vergütungspflicht|
+|Anhaltende Krankheit des Arbeitnehmers|Eigene Dienstunfähigkeit|
+|Längere Abwesenheit|Arbeitgeber verletzt Fürsorge und Vergütungspflicht|
 |Verletzung der Dienstleistung, oder Schweigepflicht, oder des Wettbewerbsverbotes||
   
 
@@ -127,5 +127,14 @@ Entscheidet das Gericht gegen den Arbeitnehmer, so hat er auch hier wieder die M
 
 
 
+## Kündigungen in der Ausbildung
 
+### Wechsel des Ausbildungsplatzes
 
++ Sofern der Auszubildende den Arbeitsplatz wechseln möchte, so sollte er als erstes damit beginnen sich einen neuen Arbeitsplatz zu suchen, bevor er die Kündigung einreicht.
+
++ Dadurch wird deutlich, dass die Kündigung am derzeitigen Betrieb liegt, und nicht vom Arbeitgeber gewünscht wird. Zudem ist der Druck für den Auszubildenden geringer.
+
++ Sofern die Probezeit noch gilt, kann sowohl der Arbeitgeber, als auch der Auszubildende das Arbeitsverhältnisses ohne Angabe von gründen jederzeit kündigen. Die Kündigung muss schriftlich erfolgen. Die Regelung findet sich in [§22BBIG](https://www.gesetze-im-internet.de/bbig_2005/__22.html).
+
+---
