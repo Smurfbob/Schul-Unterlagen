@@ -1,19 +1,21 @@
-# Berufschule
+# Berufsschule
 
 ## Anrechnung von Berufsschulzeiten
 
 + Der Arbeitgeber hat den Auszubildenden für die Teilnahme an der Berufsschule freizustellen und darf ihn in dieser Zeit nicht beschäftigen.
 
-+ Die Freistellung gilt auch für Nachhilfen, Vorbereitungslhergänge, und Abschlussprüfungen, Schulveranstatltungen etc. Die Vergütung wird auch für die Zeit in der Berufsschule ausgezahlt.
++ Die Freistellung gilt auch für Nachhilfe, Vorbereitungslehergänge, und Abschlussprüfungen, Schulveranstatltungen etc. Die Vergütung wird auch für die Zeit in der Berufsschule ausgezahlt.
 
 + Freistellung bedeutet, dass die Berufsschulzeit mit der betrieblichen Ausbildungszeit identisch 
 ist.
 
-+ Volljährige Auszubilden können nach der Berufschule im Betrieb weiter ausgebildet werden, wobei die maximale Arbeitszeit acht Stunden beträgt.
++ Volljährige Auszubilden können nach der Berufsschule im Betrieb weiter ausgebildet werden, wobei die maximale Arbeitszeit acht Stunden beträgt.
 
 + Sofern die Ausbildungszeit außerhalb der Schulzeit liegt, so kann der Volljährige Auszubildende maximal zehn Stunden am Tag eingesetzt werden.
 
 + Die Begrenzung der 48 Wochenstunden darf aber nicht überschritten werden.
+
+---
 
 
 

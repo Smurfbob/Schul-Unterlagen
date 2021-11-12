@@ -2,12 +2,12 @@
 
 ## Warum gibt es das Jugendarbeitsschutzgesetz?
 
-+ Bei Kindern und Jugendlichen ist davon auszugehen, dass diese sich noch im Wachstum befinden und weniger wiederstandsfähig sind als Erwachsene Personen. Diese Personengruppe wird daher vor folgenden Arbeiten geschützt.
++ Bei Kindern und Jugendlichen ist davon auszugehen, dass diese sich noch im Wachstum befinden und weniger widerstandsfähig sind als Erwachsene Personen. Diese Personengruppe wird daher vor folgenden Arbeiten geschützt.
 
 1. Arbeit die zu früh beginnt.
 2. Arbeit die zu schwer ist.
 3. Arbeit die zu lange dauert.
-4. Arbeit die für sie ungeignet ist.
+4. Arbeit die für sie ungeeignet ist.
 5. Arbeit die Gefährlich ist.
 
 ---
@@ -18,7 +18,7 @@
 
 + Kinder unter 15 Jahren dürfen nicht beschäftigt werden. Ausnahmen gelten in der Landwirtschaft und beim austragen von Zeitungen.
 
-+ Jugendliche zwischen dem 15 und dem 18 Lebensjahr sind folgenede Arbeiten untersagt.
++ Jugendliche zwischen dem 15 und dem 18 Lebensjahr sind folgende Arbeiten untersagt.
 
 1. Nachtarbeit
 2. Sonntagsarbeit
@@ -30,9 +30,9 @@
 
 + Regelmäßige arbeitsmedizinische Untersuchungen
 
-+ Verschärfte Arbeischutzmaßnahmen
++ Verschärfte Armbeischutzmaßnahmen
 
-### Arbeitschutz
+### Arbeitsschutz
 
 + Jugendliche dürfen nur fünf Tage die Woche arbeiten und Samstags nur begrenzt.
 
@@ -40,7 +40,7 @@
 
 + Es gibt eine besondere Pausenregelung.
 
-### Berufschule
+### Berufsschule
 
 + Ein Jugendlicher darf nach fünf Stunden in der Berufsschule nicht weiter beschäftigt werden.
 
@@ -54,7 +54,7 @@
 
 + Jugendliche dürfen in der Woche maximal 40 Stunden beschäftigt werden und nicht mehr als acht Stunden am Tag.
 
-+ Fünf Stunden in der Berufschule werden als acht Stunden abgerechnet.
++ Fünf Stunden in der Berufsschule werden als acht Stunden abgerechnet.
 
 ### Ruhepausen/Aufenthaltsraum
 
@@ -70,7 +70,7 @@
 
 ### Nachtruhe
 
-+ Jugendliche dürfen nur in der Zeit von 06:00 bis 20:00 Uhr beschäftigt werden. Im falle, das der Jugendliche über 16 Jahre alt ist und in einer Gaststätte, oder im Schustellergewerbe tätig ist darf er auch bis 22:00 Uhr beschäftigt werden.
++ Jugendliche dürfen nur in der Zeit von 06:00 bis 20:00 Uhr beschäftigt werden. Im falle, das der Jugendliche über 16 Jahre alt ist und in einer Gaststätte, oder im Schaustellergewerbe tätig ist darf er auch bis 22:00 Uhr beschäftigt werden.
 
 + In einem mehrschichtigen Betrieb auch bis 23:00 Uhr.
 
@@ -87,8 +87,10 @@
 
 + Dem Jugendlichen steht eine gewisse Anzahl an bezahltem Urlaub im Kalenderjahr zu.
 
-|Alter des Jugendlichen| Mindest Tage an Urlaub|
+|Alter des Jugendlichen| Mindest-Tage an Urlaub|
 |-|-|
 |Unter 16|30|
 |Unter 17|27|
 |Unter 18|25|
+
+---
