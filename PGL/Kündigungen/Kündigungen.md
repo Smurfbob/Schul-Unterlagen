@@ -6,22 +6,24 @@
 
 ### Ordentliche Kündigung
 
-+ Bei einer Ordentlichen Kündigung werden Fristen und Soziale Umstände beachtet und es gibt einen klaren Kündigungsgrund, der entweder im Verhalten, der Person, oder im Betrieb selbst liegt.
++ Bei einer Ordentlichen Kündigung werden Fristen und Soziale Umstände beachtet und es gibt einen klaren Kündigungsgrund, der entweder im Verhalten, der Person selbst, oder im Betrieb selbst liegt.
   
 ### Außerordentliche Kündigung
 
 + Eine Außerordentliche Kündigung liegt dann vor, wenn ein wichtiger Grund im Sinne des [§ 626 BGB](https://www.gesetze-im-internet.de/bgb/__626.html) genannt wird. In diesem Fall gilt keine Kündigungsfrist.
 
++ Eine Außerordentliche Kündigung wird umgangssprachlich auch als fristlose Kündigung bezeichnet.
+
 + Damit eine Außerordentliche Kündigung geltend gemacht werden kann, müssen andere Maßnahmen erschöpft sein (Abmahnungen, Versetzung, etc.)
 
 + Eine Außerordentliche Kündigung kann zum Beispiel dadurch begründet werden, dass eine weitere Zusammenarbeit nicht weiter zugemutet werden kann, wobei alle Umstände des Einzelfalles abgewägt werden müssen.
 
-+ Sobald der Arbeitgeber von dem Außerodentlichem Kündigungsgrund erfährt, muss er dem Arbeitnehmer innerhalb von zwei Wochen kündigen und dem Arbeitnehmer unverzüglich über die Kündigung in Kenntnis setzen.
++ Sobald der Arbeitgeber von dem außerodentlichem Kündigungsgrund erfährt, muss er dem Arbeitnehmer innerhalb von zwei Wochen kündigen und dem Arbeitnehmer unverzüglich über die Kündigung in Kenntnis setzen.
   
 ### Konkrete Kündigungsgründe bei einer Außerordentlichen Kündigung
 
 |Arbeitgeber|Arbeitnehmer|
-|-|-|
+|:-:|:-:|
 |Anhaltende Krankheit des Arbeitnehmers|Eigene Dienstunfähigkeit|
 |Längere Abwesenheit|Arbeitgeber verletzt Fürsorge und Vergütungspflicht|
 |Verletzung der Dienstleistung, oder Schweigepflicht, oder des Wettbewerbsverbotes||
@@ -95,10 +97,12 @@ Entscheidet das Gericht gegen den Arbeitnehmer, so hat er auch hier wieder die M
 ---
 
 
-## Kündigunsfristen
+## Kündigungsfristen
 
 + Bei einer Kündigung sind bestimmte Fristen einzuhalten. Diese sind im
 [§ 622BGB](https://www.gesetze-im-internet.de/bgb/__622.html) festgehalten.
+
++ Die Kündigungsfrist legt einen Zeitraum fest, in welchem der Arbeitnehmer beim Arbeitgeber weiter beschäftigt bleibt, bis er zu einem festen Termin den Betrieb verlässt.
 
 ### Grobe Übersicht:
 
@@ -108,13 +112,20 @@ Entscheidet das Gericht gegen den Arbeitnehmer, so hat er auch hier wieder die M
 
 + Ist das Arbeitsverhältnis kürzer als zwei Jahre, beträgt die Frist vier Wochen, und die Kündigung ist auch am 15 des Monats erlaubt, zuzüglich zum Ende des Kalendermonats.
 
-1. zwei Jahre bestanden hat, einen Monat zum Ende eines Kalendermonats,
-2. fünf Jahre bestanden hat, zwei Monate zum Ende eines Kalendermonats,
-3. acht Jahre bestanden hat, drei Monate zum Ende eines Kalendermonats,
-4. zehn Jahre bestanden hat, vier Monate zum Ende eines Kalendermonats,
-5. zwölf Jahre bestanden hat, fünf Monate zum Ende eines Kalendermonats,
-6. 15 Jahre bestanden hat, sechs Monate zum Ende eines Kalendermonats,
-7. 20 Jahre bestanden hat, sieben Monate zum Ende eines Kalendermonats.
++ Die Frist gilt immer zum Ende des Kalendermonats.
+
+
+|Jahre im Betrieb| Frist in Monaten|
+|:-:|:-:|
+|2|1|
+|5|2|
+|8|3|
+|10|4|
+|12|5|
+|15|6|
+|20|7|
+
+
 
 ### Sonderkündigungsfristen für Kleinbetriebe
 
