@@ -13,7 +13,7 @@ erfolgen. Umschreibungen und Verallgemeinerungen, wie zum Beispiel "Störung des
 Wird zum Beispiel  als Konsequenz die Kündigung  nicht erwähnt, hat die Ermahnung
 im falle einer Kündigung vor Gericht keinen Bestand.
 
-### WICHTIG
+## WICHTIG
 
 Sollte bei einer Abmahnung einer dieser drei Punkte fehlen, oder formal nicht
 richtig sein, kann die Ermahnung vor Gericht nicht gültig gemacht werden.
