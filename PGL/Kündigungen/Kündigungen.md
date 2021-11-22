@@ -18,7 +18,7 @@
 
 + Eine Außerordentliche Kündigung kann zum Beispiel dadurch begründet werden, dass eine weitere Zusammenarbeit nicht weiter zugemutet werden kann, wobei alle Umstände des Einzelfalles abgewägt werden müssen.
 
-+ Sobald der Arbeitgeber von dem Außerodentlichem Kündigungsgrund erfährt, muss er dem Arbeitnehmer innerhalb von zwei Wochen kündigen und dem Arbeitnehmer unverzüglich über die Kündigung in Kenntnis setzen.
++ Sobald der Arbeitgeber von dem außerodentlichem Kündigungsgrund erfährt, muss er dem Arbeitnehmer innerhalb von zwei Wochen kündigen und dem Arbeitnehmer unverzüglich über die Kündigung in Kenntnis setzen.
   
 ### Konkrete Kündigungsgründe bei einer Außerordentlichen Kündigung
 
