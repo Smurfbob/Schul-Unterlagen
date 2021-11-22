@@ -10,6 +10,6 @@
 
 + Legt bei der digitalen Kommunikation fest, wie die zur Informationsübertragung genutzten Symbole auf der Physischen Ebene übertragen werden.
 
-## Fehlererkennender Code
+## Fehler erkennender Code
 
-+ Bei einem Fehlererkenneden Code, werden dem eigentlichen Wert Redundanzen hinzugefügt, mit dessen Hilfe der Rechner prüfen kann, ob ein Fehler vorliegt.
++ Bei einem Fehler erkennenden Code, werden dem eigentlichen Wert Redundanzen hinzugefügt, mit dessen Hilfe der Rechner prüfen kann, ob ein Fehler vorliegt.
