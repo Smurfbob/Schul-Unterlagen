@@ -27,6 +27,7 @@ SEZ|Spätester Endzeitpunkt
 GP |Gesamte Pufferzeit
 FP |Freie Pufferzeit
 
+## Aufbau eines Knotens
 
 ![Empty](NetzBilder/Bezeichner.png)
 
