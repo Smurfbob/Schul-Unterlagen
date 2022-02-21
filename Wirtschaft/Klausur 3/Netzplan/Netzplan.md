@@ -27,8 +27,9 @@ SEZ|Spätester Endzeitpunkt
 GP |Gesamte Pufferzeit
 FP |Freie Pufferzeit
 
+## Aufbau eines Knotens
 
-![Empty](Bezeichner.png)
+![Empty](NetzBilder/Bezeichner.png)
 
 
 ## 1. Knoten Verknüpfen
@@ -37,7 +38,7 @@ Zuerst müssen alle Knoten miteinander verknüpft werden.
 Oben Links wird der Prozessschritt eingetragen, darunter folgt die
 Dauer des Prozesses.
 
-![Empty](Structure.png)
+![Empty](NetzBilder/Structure.png)
 
 ## 2. Vorwärtsterminierung
 
@@ -48,7 +49,7 @@ Sollten zwei Knoten auf einen anderen Knoten verweisen, so wird die höhere Zeit
 Dies geschieht hier zum Beispiel im falle von B.
 Dieser ist von D und C abhängig, da C mit neun aber einen höheren Endzeitpunkt hat als D mit acht, wird als Anfangszeitpunkt die neun gewählt.
 
-![Empty](Anfangszeitpunkte.png)
+![Empty](NetzBilder/Anfangszeitpunkte.png)
 
 ## 3. Rückwärtsterminierung
 Die Rückwärtsterminierung läuft ähnlich ab wie die Vorwärtsterminierung.
@@ -59,7 +60,7 @@ Dieser subtrahierte Wert wird an die dahinterliegenden Knoten weiter gegeben.
 Sollte es hierbei zu zwei Abhängigkeiten kommen, so wird der kleinere Wert übernommen.
 Dies ist zum Beispiel bei C der Fall. C ist von E und F abhängig. E hat den Wert 12 und F hat den Wert neun. Da neun kleiner ist als 12, wird die neun als Ausgangswert an C weitergegeben.
 
-![Empty](Rueckwertzterminierung.png)
+![Empty](NetzBilder/Rueckwertzterminierung.png)
 
 ## 4. Berechnung der Pufferzeiten
 
@@ -96,14 +97,14 @@ Der Freie Puffer beträgt also den Wert 1.
 Die Gesamte Pufferzeit bezieht sich auf das gesamte Projekt und sagt aus, wie lange sich ein Prozess verzögern kann, ohne das sich das gesamte Projekt verzögert.
 Die Freie Pufferzeit bezieht sich hingegen auf den darauf folgenden Prozess und beschreibt, in wie weit sich der vorherige Prozess verzögern darf, ohne den darauffolgenden Prozess zu beeinträchtigen.
 
-![Empty](Pufferzeiten.png)
+![Empty](NetzBilder/Pufferzeiten.png)
 
 ## 5. Kritischen Pfad ermitteln
 
 Der kritische Pfad gibt an, welche Prozesse sich unter keinen Umständen verzögern sollen, da dies zu einer Verschiebung des Projektes führen könnte.
 Um den Kritischen Pfad zu ermitteln, werden alle Prozesse markiert, die keinen Puffer haben, sprich beim Freien als auch beim gesamten Puffer auf 0 stehen.
 
-![Empty](Kritischer_Pfad.png)
+![Empty](NetzBilder/Kritischer_Pfad.png)
 
 ## Quellen
 
