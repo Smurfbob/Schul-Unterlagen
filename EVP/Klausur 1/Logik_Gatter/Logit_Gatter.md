@@ -84,7 +84,7 @@
 
 ### Halb Addierer
 
-![Empty](Halbaddierer.png)
+![Empty](Bilder/Halbaddierer.png)
 
 + Der Halbaddierer kann zwei eingaben verarbeiten und gibt an ende aus, ob es einen Übertrag gibt(c), oder ob es zu einer Summe (s) kommt.
 
@@ -92,7 +92,7 @@
 
 + Ein Halbaddierer mit Grundgattern sähe dann so aus.
 
-![Empty](Halbaddierer_without_xor.png)
+![Empty](Bilder/Halbaddierer_without_xor.png)
 
 
 ### Volladierer
@@ -101,4 +101,4 @@
 
 + Der Volladierer nimmt sowohl die Zwei eingaben auf, als auch einen Übertrage, der zum beispiel von einem Halbaddirer erzeugt wurde.
 
-![Empty](Volladierer.png)
+![Empty](Bilder/Volladierer.png)
