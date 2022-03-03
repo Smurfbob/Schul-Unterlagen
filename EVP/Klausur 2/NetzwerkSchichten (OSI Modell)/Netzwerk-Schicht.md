@@ -17,13 +17,6 @@
 + Es gibt sieben Schichten im OSI Modell, welche auch als Layer bezeichnet werden.
 + Merkspruch: "Please Do Not Throw Salami Pizza Away"
 
-
-
-
-
-
-
-
 ## Anwendungsschichten
 + Unter die Anwendungsschichten fallen die Schichten fünf, sechs und Sieben.
 + Auf diese Schichten haben Anwendungen und Programme direkten Zugriff.

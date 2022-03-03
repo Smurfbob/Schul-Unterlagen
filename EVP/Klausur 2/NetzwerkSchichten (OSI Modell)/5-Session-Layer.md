@@ -3,6 +3,8 @@
 ## Funktion
 
 + Steuerung der Verbindungen und des Datenaustauschs
++ Verhindert, das Verbindungen abbrechen
++ Stellt Sitzungen wieder her, sofern eine abgebrochen ist
 
 ## Protokolle
 + FTP

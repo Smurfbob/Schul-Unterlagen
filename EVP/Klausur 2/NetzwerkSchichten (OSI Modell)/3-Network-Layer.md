@@ -3,7 +3,8 @@
 ## Funktion
 
 + Routing der Datenpakete zum nächsten Kommunikationsknotenpunkt
-+ 
++ Stellt Adressen für die Kommunikation über das Netzwerk bereit
++ Auf Basis der Adressen erfolgt das Routing
 
 ## Protokolle
 + IP -> Ist für die Korrekte Adressierung zuständig
