@@ -6,7 +6,9 @@
 + Die Eigenschaften nennen sich Atomare und Wiederholungsfrei
 + Das Ziel ist es also die Daten so aufzubereiten, dass jedes Attribut nur eine Spalte bekommt und nicht mehrfache Informationen in einer Zelle stehen.
 
-## Atomare Attribute
+## Beispiel
+
+### Atomare Attribute
 + Ein Attribut gilt dann als Atomar, sofern es sich nicht in kleinere Attribute aufspalten lässt
 + Nehmen wir als Beispiel die folgende Tabelle
 
@@ -24,7 +26,7 @@
 
 + Die Tabelle ist allerdings immer noch nicht in der ersten Normalform, da die Adresse noch aus einer Auflistung besteht
 
-## Auflistung
+### Auflistung
 
 |Vorname|Nachnahme|Adresse|
 |-|-|-|
@@ -41,3 +43,5 @@
 + Nach dieser Unterteilung befindet sich die Tabelle in der ersten Normalform
 + Die erste Normalform ist der Ausgangspunkt für die zweite Normalform und muss immer als erstes durchgeführt werden.
 
+## Quellen
++ [Wikipedia](https://de.wikipedia.org/wiki/Normalisierung_(Datenbank))
