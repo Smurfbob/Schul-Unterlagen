@@ -29,4 +29,26 @@
 + Resitive Touchscreens reagieren auf Druck
 + Hierbei gibt es zwei elektrisch leitfähige Schichten, die sobald sie aufeinander treffen ein Signal erzeugen
 + Dieses Signal wird genutz, um die Position zu ermitteln
+
 ![Empty](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Touchscreen.png/220px-Touchscreen.png)
+
+## Oberflächen-kapazitive Touchscreens
+
++ Bei einem Kapazitiven Touchscreen wird eine Glassfläche mit einer durchsichtigen Metalloxid beschichteten Folie beschichtet
++ Diese folie ist an den Seiten des Displays verbunden und wird mit einer Wechelspannung versorgt
++ Dadurch entsteht ein Elektrisches Feld
++ Bei Berührung entsteht ein geringer Ladungstransport, mit welchem die Position der Berührung gemesen werden kann
+
+![Empty](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TouchScreen_capacitive.svg/220px-TouchScreen_capacitive.svg.png)
+
+## Induktive Touchscreens
+
++ Induktive Touchscreens lassen sich nur durch einen speziellen Stift bedienne und nicht mit der Hand
++ In diesem Stift befindet sich eine Spule, welche ein Elektromagnetisches Feld erzeugt
++ Im Bildschirm befinden sich dementsprächend Sensoren, welche dieses Feld erfassen
++ Dadurch kann die Position der Berührung ermittelt werden.
+
+## Quellen
+
++ [Wikipedia](https://de.wikipedia.org/wiki/Touchscreen)
+
