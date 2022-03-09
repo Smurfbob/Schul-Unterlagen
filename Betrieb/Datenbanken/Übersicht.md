@@ -2,7 +2,7 @@
 
 ## Was ist eine Datenbank
 
-+ Bei einer Datenbank handelt es sich um eine Software, mit welcher man Informationen speichert.
++ Bei einer Datenbank handelt es sich um eine Ansammlung von Entit
 + Meist wird eine Relationale Datenbank aufgebaut.
 + Datenbanken sind im entferntesten Sinne mit Excel Tabellen vergleichbar.
 + Ziel der Datenbank ist es die Attribute in sinnvolle Beziehungen zueinander zu bringen.
