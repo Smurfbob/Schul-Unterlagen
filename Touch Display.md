@@ -16,13 +16,13 @@
 + Otische Systeme
 + Dispersive-Signal-Technology-Systeme
 
-![Empty](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hp150_touchscreen_20081129.jpg/220px-Hp150_touchscreen_20081129.jpg)
-
 ## Optische Systeme
 
 + Die ersten Optischen Systeme wurden schon auf Röhrenbildschirmen eingesetzt und haben mir einer Lichtschranke gearbeitet
 + Das Antipen einer Applikation wurde dadurch erkannt, das eine der Lichtschranken gebrochen wurde
 + Die Position der Unterbrechung konnte vom Comuter auf den Bildschirm übertragen werden
+
+![Empty](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hp150_touchscreen_20081129.jpg/220px-Hp150_touchscreen_20081129.jpg)
 
 ## Resitive Touchscreens
 
