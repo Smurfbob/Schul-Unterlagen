@@ -19,7 +19,7 @@
 ## Hypervisor's
 
 + Der Hypervisor, welcher auch als Virtual-Machine-Monitor bezeichnet wird ist eine Schicht, die die Kommunikation von zwei Betriebssystemen ermöglicht.
-+ Eines der Betriebssysteme ist meist direkt auf der Hardware Installiert, das andere ist isoliert und als Virtueless Betriebssystem gespeichert
++ Eines der Betriebssysteme ist meist direkt auf der Hardware Installiert, das andere ist isoliert und als virtueless Betriebssystem gespeichert
 + Dadurch ist es möglich mehrere Gastbetriebssysteme auf einem Rechner zu betreiben
 
 ### Typ 1
