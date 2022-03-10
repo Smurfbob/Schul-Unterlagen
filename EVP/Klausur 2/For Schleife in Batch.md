@@ -22,4 +22,3 @@ Nutzer gegebene Größe
 ## Aufbau einer for Schleife unter Windows
 
 + Die for Schleife in Windows ist etwas anders aufgebaut
-+ 
