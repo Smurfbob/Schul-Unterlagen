@@ -1,14 +1,14 @@
-# Container Visualisierung
+# Container Virtualisierung 
 
-## Was ist Container Visualisierung
+## Was ist Container Virtualisierung 
 
-+ Bei der Container Visualisierung handelt es sich um ein Konzept, bei welchem interne Funktionen eines Betriebsastems dafür genutzt werden Anwendungen isoliert voneinander auf dem selben Host-System zu betreiben
++ Bei der Container Virtualisierung  handelt es sich um ein Konzept, bei welchem interne Funktionen eines Betriebsastems dafür genutzt werden Anwendungen isoliert voneinander auf dem selben Host-System zu betreiben
 + Der Container ist hierbei vergleichbar mit einer Virtuellen Maschine
 + Anders als bei einer virtuellen Maschine muss jedoch hierbei die Hardware nicht installiert werden, sondern es wird die vorhandene Hardware des Rechners genutzt
 + Es wird also auf den Kernel des Hosts zugegriffen und dessen Betriebssystem genutzt
 
 ## Docker
-+ Lange zeit war das Konzept der Visualisierung nicht nutzerfreundlich und gerade in der Anfangszeit für die Rechner zu Ressourcen aufwendig
++ Lange zeit war das Konzept der Virtualisierung  nicht nutzerfreundlich und gerade in der Anfangszeit für die Rechner zu Ressourcen aufwendig
 + Dies änderte sich im Jahre 2013 mit der Einführung von Dockern
 
 ## Vorteile
