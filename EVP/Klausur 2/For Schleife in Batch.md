@@ -2,8 +2,8 @@
 
 ## Was ist eine for Schleife
 + Die for Schleife hat das Ziel einen Vorgang mehrfach aufzuführen
-+ Die Anzahl der Durchläufe ist meis an eine feste Größe gebunden, im Gegensatz zur while Schleife
-+ Die gebundene Größe kann zum Beispiel der Inhalt eines Verzeichnises sein, oder eine vom
++ Die Anzahl der Durchläufe ist meist an eine feste Größe gebunden, im Gegensatz zur while Schleife
++ Die gebundene Größe kann zum Beispiel der Inhalt eines Verzeichnisses sein, oder eine vom
 Nutzer gegebene Größe
 
 ## Aufbau einer for Schleife unter Linux

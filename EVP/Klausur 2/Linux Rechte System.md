@@ -10,22 +10,22 @@
 
 + Der Nutzer ist für nur eine Person bestimmt
 + Jeder Nutzer hat einen Namen und erhält auch eine Identifikations-Nummer
-+ Jeder Nutzer hat ein Home Verzeichniss, in welchen die persönlichen Daten gespeichert sind
++ Jeder Nutzer hat ein Home Verzeichnis, in welchen die persönlichen Daten gespeichert sind
 
 ## Gruppen
 
 + Nutzer können einer Gruppe zugehörig sein
-+ Alle Nutzer, die einer Gruppe angehöhren, haben die selben Rechte, welche in dieser Gruppe defineiert wurden
++ Alle Nutzer, die einer Gruppe angehören, haben die selben Rechte, welche in dieser Gruppe definiert wurden
 + Normalerweise hat jeder Nutzer am Anfang bereits eine gleichnamige Gruppe
 + Auch die Gruppen besitzen eine Id und einen Namen
 
 ## Ordner und Dateien
 
-+ Ordner und Dateine haben folgende Attribute
++ Ordner und Dateien haben folgende Attribute
 + Jedes Element hat einen Besitzer
 + Jedes Element hat eine Gruppe
 
-## Wichitge Befehle im Zusammenhang mit den Rechten
+## Wichtige Befehle im Zusammenhang mit den Rechten
 
 + Die Wichtigsten Befehle für das Manipulieren von Rechten sind die folgenden
 + "chmod" Verändert die Zugriffsrechte auf ein Element
@@ -37,7 +37,7 @@
 + Die Rechte einer Datei werden bei der Auflistung dieser im Terminal sichtbar
 + Ein Beispielhafter Aufbau sieht zum Beispiel so aus
 + drwxr-x-w- 2 root jan 4096 Apr 15 09:11 dirname1
-+ In dieser auflistung sehen wir als erstes die Attribut der Datei "drwxr-x-w-"
++ In dieser Auflistung sehen wir als erstes die Attribut der Datei "drwxr-x-w-"
 + Danach folgt der Nutzer, in diesem Fall "root"
 + Darauf folgt die Gruppe, in diesem Fall "jan"
 + Jetzt kommt noch die Größe der Datei in Bytes "4096"
@@ -49,7 +49,7 @@
 
 ### Erstes Zeichen
 
-+ Das erste Zeichen gibt aufschluss über den Typen der Datei
++ Das erste Zeichen gibt Aufschluss über den Typen der Datei
 + Es gelten folgende Zeichen
 + d: Ordner
 + b: Blockorientiertes Gerät
@@ -70,7 +70,7 @@
 + Die Position des Blocks gibt einen Bezug an
 + Der Erste Block bezieht sich auf den Besitzer
 + Der zweite Block bezieht sich auf die Gruppe
-+ Der letzet Block bezieht sich auf die Rechte aller Nutzer
++ Der letzte Block bezieht sich auf die Rechte aller Nutzer
 
 ## Zugriffsrechte in Oktalzahlen
 
@@ -85,12 +85,12 @@
 |-|-|-|
 |Keine Rechte|0|---|
 |Ausführbar|1|--x|
-|Schreibar|2|-w-|
+|Schreibbar|2|-w-|
 |Lesbar|4|r--|
-|Ausführbar und Schreibar|3|-wx|
+|Ausführbar und Schreibbar|3|-wx|
 |Ausführbar und Lesbar|5|r-x|
-|Schreibar und Lesbar|6|rw-|
-|Lesbar, Schreibar und Ausführbar|7|rwx|
+|Schreibbar und Lesbar|6|rw-|
+|Lesbar, Schreibbar und Ausführbar|7|rwx|
 
 ## Quellen
 + [Jan Karres](https://jankarres.de/2015/04/debian-linux-zugriffsrechte-system-erklaert/)
