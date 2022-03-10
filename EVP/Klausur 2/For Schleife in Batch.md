@@ -19,4 +19,6 @@ Nutzer gegebene Größe
 + $i ist hierbei eine Laufvariable, die am Anfang auf 0 gesetzt wird und bis auf neun ansteigt
 + for ((i=0;i<=10;i++)); do echo Hallo Welt: $i; done
 
-## Aufabu einer for Schleife unter Windows
+## Aufbau einer for Schleife unter Windows
+
++ Die for Schleife in Windows ist etwas anders aufgebaut
