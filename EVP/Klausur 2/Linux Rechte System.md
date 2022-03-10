@@ -81,6 +81,11 @@
 
 ## Übersicht
 
++ Rechte lassen sich durch die Addition der Zahlen miteinander kombinieren
++ Das Recht Ausführbar hat zum Beispiel den Wert 1 und das Recht lesbar hat den Wert 5
++ Sobald man diese Werte miteinander addiert, sprich den Wert 6 verwendet, hat man eine Datei, die sowohl lesbar, als auch ausführbar ist.
++ Die Tabelle stellt eine Übersicht, über die möglichen Kombinationen der Rechte dar
+
 |Rechte|Zahl|Buchstaben|
 |-|-|-|
 |Keine Rechte|0|---|

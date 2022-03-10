@@ -19,7 +19,7 @@
 ## Hypervisor's
 
 + Der Hypervisor, welcher auch als Virtual-Machine-Monitor bezeichnet wird ist eine Schicht, die die Kommunikation von zwei Betriebssystemen ermöglicht.
-+ Eines der Betriebssysteme ist meist direkt auf der Hardware Installiert, das andere ist isoliert und als Virtueless Betriebssystem gespeichert
++ Eines der Betriebssysteme ist meist direkt auf der Hardware Installiert, das andere ist isoliert und als virtueless Betriebssystem gespeichert
 + Dadurch ist es möglich mehrere Gastbetriebssysteme auf einem Rechner zu betreiben
 
 ### Typ 1
@@ -32,16 +32,12 @@
 + Der zweite Typ erstellt Umgebungen für Virtuelle Maschinen und koordiniert Aufrufe auf die CPU, den Arbeitsreicher, die Festplatte, das Netzwerk und andere Ressourcen.
 + Der erste Typ im Gegensatz, hat direkten Zugriff auf diese Ressourcen
 + Die Virtuelle Maschine kennt den Hypervisor meist nicht und kommuniziert nur indirekt mit diesem
-+ 
-
-
 
 ## Nachteile
 
 + Risiken können dadurch entstehen, das Container ihren Zuständigkeitsbereich verlassen und Änderungen am Kernel vornehmen
 + Zudem werden die Container nicht automatisch aktualisiert und müssen manuell und einzeln aktualisiert werden
 + Durch die Regulierung des Typs zwei ist es leichter mehrere Virtuellen Maschinen zu betreiben, da diese durch den Hypervisor verwaltet werden und keinen direkten Zugriff auf die Hardware haben
-
 
 ## Quellen
 
