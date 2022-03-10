@@ -4,8 +4,8 @@
 
 + Bei der Container Visualisierung handelt es sich um ein Konzept, bei welchem interne Funktionen eines Betriebsastems dafür genutzt werden Anwendungen isoliert voneinander auf dem selben Host-System zu betreiben
 + Der Container ist hierbei vergleichbar mit einer Virtuellen Maschine
-+ Anders als bei einer virtuellen Maschine muss jedoch hierbei kein vollständiges Betriebssystem installiert werden
-+ Es wird Stadtessen auf den Kernel des Hosts zugegriffen und dessen Betriebssystem genutzt
++ Anders als bei einer virtuellen Maschine muss jedoch hierbei die Hardware nicht installiert werden, sondern es wird die vorhandene Hardware des Rechners genutzt
++ Es wird also auf den Kernel des Hosts zugegriffen und dessen Betriebssystem genutzt
 
 ## Docker
 + Lange zeit war das Konzept der Visualisierung nicht nutzerfreundlich und gerade in der Anfangszeit für die Rechner zu Ressourcen aufwendig

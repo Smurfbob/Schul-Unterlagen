@@ -14,12 +14,13 @@
 
 ## Aufbau der Schichten
 
-+ Es gibt sieben Schichten im OSI Modell, welche auch als Layer bezeichnet werden.
++ Es gibt sieben Schichten im OSI Modell, welche auch als Layer bezeichnet werden
 + Merkspruch: "Please Do Not Throw Salami Pizza Away"
 
 ## Anwendungsschichten
-+ Unter die Anwendungsschichten fallen die Schichten fünf, sechs und Sieben.
-+ Auf diese Schichten haben Anwendungen und Programme direkten Zugriff.
++ Unter die Anwendungsschichten fallen die Schichten fünf, sechs und Sieben
++ Auf diese Schichten haben Anwendungen und Programme direkten Zugriff
++ Als Beispiel für die Anwendungsschicht lassen sich zum Beispiel die Browser nennen
 
 ## Vorteile des OSI Modells
 + Kann gut als Standartmodell verwendet werden
@@ -31,6 +32,6 @@
 
 ## Quellen
 
-Aufbau des OSI Modells: [Myrasecurity.com](https://www.myrasecurity.com/de/osi-modell/)
-
-Schichten Funktion: [Ip-insider.de](https://www.ip-insider.de/was-ist-das-osi-modell-a-605831/)
++ Aufbau des OSI Modells: [Myrasecurity.com](https://www.myrasecurity.com/de/osi-modell/)
++ Schichten Funktion: [Ip-insider.de](https://www.ip-insider.de/was-ist-das-osi-modell-a-605831/)
++ OSI Modell - Was ist das: [Youtube-Takiry](https://www.youtube.com/watch?v=xiTr5B19Zd4)

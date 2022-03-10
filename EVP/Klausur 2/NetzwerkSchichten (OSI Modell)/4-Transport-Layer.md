@@ -9,6 +9,6 @@
 
 ## Protokolle
 + TCP -> Stellt die Verbindung zwischen Application und Transport her
-+ UDP
++ UDP -> Stellt eine weniger verlässliche Verbindung her, die aber schneller überträgt
 + SPX
 + NetBEUI
