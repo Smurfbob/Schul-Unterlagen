@@ -11,6 +11,25 @@
 + Lange zeit war das Konzept der Virtualisierung  nicht nutzerfreundlich und gerade in der Anfangszeit für die Rechner zu Ressourcen aufwendig
 + Dies änderte sich im Jahre 2013 mit der Einführung von Dockern
 
+## Vergleich One OS mit OS Controls multiple Containers
+
++ Im falle von One OS werden alle Applikationen direkt auf dem Betriebssystem Installiert, welches wiederum selbst auf der Hardware läuft
+
+![Empty](Bilder/One%20OS.png)
+
++ Bei der Methode OS Controls multiple Containers Werden die Applikationen in Container verschachtelt
++ Diese Container verwenden teile des Betriebssystems mit, besitzen jedoch noch weitere Funktionen von anderen Betriebssystemen, ohne hierbei jedoch dieses vollständig zu installieren
+
+![Empty](Bilder/OS%20controls%20multiple%20Containers.png)
+
+## Aufbau in einer VM
+
++ In einer Vm ist der Aufbau etwas anders, als bei den Containern
++ Bei einer Vm wird das gesamte Betriebssystem Installiert und über einen Virtual Maschine Monitor zugänglich gemacht
++ Auf diesem Virtuellen System werden dann die Applikationen installiert
+
+![Empty](Bilder/Standalone%20Approach%20%26%20Host-Guest%20Approach.png)
+
 ## Vorteile
 
 + Die Container sind deutlich kleiner als eine virtuelle Maschine und können schneller gestartet und gestoppt werden
