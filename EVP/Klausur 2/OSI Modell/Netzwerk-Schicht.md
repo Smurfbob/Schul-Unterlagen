@@ -29,9 +29,9 @@
 + Es ist in der Lage sich an viele Protokolle anzupassen
 
 
-
 ## Quellen
 
 + Aufbau des OSI Modells: [Myrasecurity.com](https://www.myrasecurity.com/de/osi-modell/)
 + Schichten Funktion: [Ip-insider.de](https://www.ip-insider.de/was-ist-das-osi-modell-a-605831/)
 + OSI Modell - Was ist das: [Youtube-Takiry](https://www.youtube.com/watch?v=xiTr5B19Zd4)
++ [ProofPoint](https://www.proofpoint.com/de/threat-reference/osi-model#:~:text=Das%20einfachste%20Beispiel%2C%20anhand%20sich,Nachrichten%20an%20die%20Darstellungsschicht%20gesendet)

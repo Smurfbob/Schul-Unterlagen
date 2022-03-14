@@ -1,7 +1,6 @@
 # Linux Rechtesystem
 
 ## Was ist das Linux Rechtesystem
-+ 
 + Das System ist in Nutzer und Gruppen unterteilt
 + Das System ist auf Windows nicht vorhanden
 + Das Rechtesystem ist auf allen Unix-Systemen gleich
@@ -28,9 +27,13 @@
 ## Wichtige Befehle im Zusammenhang mit den Rechten
 
 + Die Wichtigsten Befehle für das Manipulieren von Rechten sind die folgenden
-+ "chmod" Verändert die Zugriffsrechte auf ein Element
-+ "chown" Verändert den Besitzer, oder die Gruppe des Elements
-+ "chattr" Setzt, oder entfernt ein zusätzliches Attribut am Element
+
+|Befehl|Funktion|
+|-|-|
+|chmod|Verändert die Zugriffsrechte auf ein Element|
+|chown|Verändert den Besitzer, oder die Gruppe des Elements|
+|chattr|Setzt, oder entfernt ein zusätzliches Attribut am Element|
+
 
 ## Übersicht über die Rechte
 

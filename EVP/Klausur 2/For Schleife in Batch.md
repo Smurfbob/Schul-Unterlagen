@@ -17,8 +17,17 @@ Nutzer gegebene Größe
 ### Beispiele
 + Das folgende Beispiel gibt den String "Hallo Welt: $i" aus
 + $i ist hierbei eine Laufvariable, die am Anfang auf 0 gesetzt wird und bis auf neun ansteigt
-+ for ((i=0;i<=10;i++)); do echo Hallo Welt: $i; done
+``` Batch
+for ((i=0;i<=10;i++)); do echo Hallo Welt: $i; done
+```
 
 ## Aufbau einer for Schleife unter Windows
-
 + Die for Schleife in Windows ist etwas anders aufgebaut
+
+``` Batch
+@echo off
+for %%i IN (Das ist ein Text) do (
+    echo %i
+)
+```
++ Das Ergebnis dieser Schleife ist eine Ausgabe der Worte Das, ist, ein, Text
