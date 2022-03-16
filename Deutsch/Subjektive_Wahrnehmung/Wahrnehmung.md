@@ -11,7 +11,7 @@
 
 ## Beispiel Aussage
 
-|wahrnehmung|Vermutung|Interpretation/Bewertung|
+|Wahrnehmung|Vermutung|Interpretation/Bewertung|
 |-|-|-|
 ||Er interessiert sich nicht für das Thema|Mein Vortrag ist langweilig|
 |Hr. Schulz sieht während meines Vortrags aus dem Fenser|Er ist müde|Hr. Schulz hat zu wenig geschlafen|
