@@ -18,3 +18,21 @@
 
 + Du Botschaften werden meist als Angriff verstanden, da sie sich direkt auf das Verhalten der angesprochenen Person bezieht
 + Meist erreicht man den angesprochenen nicht mit dieser Aussage, da man sich über diesen stellt
+
+## Aufgaben
+
+### Bausteine einer ich Botschaft
+1. Macht die eigenen Interessen deutlich
+2. Beugt einer Kommunikative Blockade vor
+3. Wird vor allem bei Feedback Situationen verwendet
+
+### Vorteile einer Ich Botschaft
++ Der Sender argumentiert aus seiner Wahrnehmung heraus und veralgemeinert nicht
++ Dadurch wird klar, das ein Problem bei einem selbst liegt und nicht bei der anderen Person
+
+### Umformungen
+|Original|Umgeformt|
+|-|-|
+|Wenn du so weitermachst, schaffst du die theoretische Prüfung nie|Ich wünschte mir, dass du mehr für deine theoretische Prüfung tust|
+|Du bist schon wieder unpünktlich!|Ich muss feststellen, dass du schon wieder unpünktlich bist|
+|Immer kommst du in dreckiger Arbeitskleidung|Ich empfinde es als unamgenehm, dass du immer in dreckiger Arbeitskleidung kommst|
