@@ -16,6 +16,8 @@
 + Der Sender vermittelt mit dieser Aussage die vier genannten Informationen
 + Der Empfänger hingengen empfängt eben diese vier Informationen
 
+![Empty](Bilder/Sender_Empfänger_Thun_Modell.jpg)
+
 ## Sachebene
 
 + Auf der Sachebene steht die Information im Vordergrund
@@ -37,6 +39,3 @@
 
 + Der Apell ist eine Auforderung an den Empfänger
 + Der Apell kann offen, oder verdeckt gesandt werden
-
-![Empty](Bilder/Sender_Empfänger_Thun_Modell.jpg)
-
