@@ -7,14 +7,14 @@
 |Information|Aussage|
 |-|-|
 |Sachinformation|Gibt an, worüber man Informiert|
-|Selbstkundgabe|Sagt aus, was ich von mir zu erkennen gebe|
+|Selbstkundegabe|Sagt aus, was ich von mir zu erkennen gebe|
 |Beziehungshinweis|Zeigt, wie ich zu einer Position stehe|
-|Apell|Gibt an, was ich bei der Person erreichen möchte|
+|Appell|Gibt an, was ich bei der Person erreichen möchte|
 
 + Das Modell wird meist mit einem Quadrat dargestellt
 + In der Mitte des Bildes steht die Aussage "Es zieht."
 + Der Sender vermittelt mit dieser Aussage die vier genannten Informationen
-+ Der Empfänger hingengen empfängt eben diese vier Informationen
++ Der Empfänger hingegen empfängt eben diese vier Informationen
 
 ![Empty](Bilder/Sender_Empfänger_Thun_Modell.jpg)
 
@@ -32,7 +32,7 @@
 
 ## Beziehungsseite
 
-+ Auf der Beziehungseite gibt der Sender Informationen über seine Beziehung zum Empfänger preis
++ Auf der Beziehungsseite gibt der Sender Informationen über seine Beziehung zum Empfänger preis
 + Die Informationen über die Beziehung können vom Empfänger wahrgenommen werden und dieser kann sich dadurch wertgeschätzt, abgelehnt, missachtet etc. fühlen
 
 ## Appell
