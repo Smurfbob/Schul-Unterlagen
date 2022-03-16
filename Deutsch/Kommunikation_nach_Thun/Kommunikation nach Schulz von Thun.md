@@ -2,17 +2,17 @@
 
 ## These
 
-+ Die These von Thun ist das Jede Botschaft, ob man will oder nicht vier Informationen enthält
++ Die These von Thun ist, dass jede Botschaft, ob man will oder nicht, vier Informationen enthält.
 
 |Information|Aussage|
 |-|-|
 |Sachinformation|Gibt an, worüber man Informiert|
-|Selbstkundgabe|Sagt aus was ich von mir zu erkennen gebe|
-|Beziehungshinweis|Zeigt wie ich zu einer Position stehe|
-|Apell|Gibt an was ich bei der Person erreichen möchte|
+|Selbstkundgabe|Sagt aus, was ich von mir zu erkennen gebe|
+|Beziehungshinweis|Zeigt, wie ich zu einer Position stehe|
+|Apell|Gibt an, was ich bei der Person erreichen möchte|
 
 + Das Modell wird meist mit einem Quadrat dargestellt
-+ In der Mitte des Bildes steht die Aussage es zieht
++ In der Mitte des Bildes steht die Aussage "Es zieht."
 + Der Sender vermittelt mit dieser Aussage die vier genannten Informationen
 + Der Empfänger hingengen empfängt eben diese vier Informationen
 
@@ -22,20 +22,20 @@
 
 + Auf der Sachebene steht die Information im Vordergrund
 + Es geht also um Daten, Fakten und Sachverhalte
-+ Die Herausforderung für den Sender ist die Inhalte klar und verständlich zu formulieren
++ Die Herausforderung für den Sender ist, die Inhalte klar und verständlich zu formulieren
 
 ## Selbstkundgabe
 
-+ Bei jeder Aussage, gibt die Person auch Informationen über sich selbst preis
++ Bei jeder Aussage gibt die Person auch Informationen über sich selbst preis
 + Meist treten die Informationen in Form von Gefühlen, Werten, Eigenarten und Bedürfnissen auf
-+ Explizit sind hiermit Ich-Botschaften gemeint
++ Explizite Informationen sind offen wahrnehmbar (Ich-Botschaften), implizite Informationen müssen durch das Gesagte interpretiert werden
 
-## Beziehungseite
+## Beziehungsseite
 
-+ Auf der Beziehungseite gibt der Sender Informationen über seine Beziehung zur Person preis
-+ Die Informationen über die Beziehung können vom Empfänger wahrgenommen werden und diser kann sich dadurch wertgeschätzt, abgelehnt, missachtet, etc. fühlen
++ Auf der Beziehungseite gibt der Sender Informationen über seine Beziehung zum Empfänger preis
++ Die Informationen über die Beziehung können vom Empfänger wahrgenommen werden und dieser kann sich dadurch wertgeschätzt, abgelehnt, missachtet etc. fühlen
 
-## Apell
+## Appell
 
-+ Der Apell ist eine Auforderung an den Empfänger
-+ Der Apell kann offen, oder verdeckt gesandt werden
++ Der Appell ist eine Aufforderung an den Empfänger
++ Der Appell kann offen oder verdeckt gesendet werden
