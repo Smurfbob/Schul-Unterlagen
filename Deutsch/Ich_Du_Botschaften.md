@@ -6,6 +6,11 @@
 + Das ausgelöste, oder erwünschte Verhalten wird beschrieben, ohne dieses zu bewerten
 + Zudem werden die Gefühle des Kommunizierenden offen gelegt
 
+## Merkmale einer Ich Botschaft
++ Das ausgelöste, oder erwünschte Verhalten wird beschrieben
++ Die Gefühle der Ich Person werden dem anderen mitgeteilt
++ Die Folgen des Verhaltens werden deutlich gemacht
+
 ## Vorteile einer Ich Botschaft
 
 + Eine Ich botschaft macht deutlich, dass die Ziele von einer Person ausgehen und nicht generaliesiert sind
