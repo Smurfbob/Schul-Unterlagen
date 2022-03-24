@@ -13,9 +13,9 @@
 
 ## Vorteile einer Ich Botschaft
 
-+ Eine Ich botschaft macht deutlich, dass die Ziele von einer Person ausgehen und nicht generaliesiert sind
++ Eine Ich Botschaft macht deutlich, dass die Ziele von einer Person ausgehen und nicht generalisiert sind
 + Eine generalisierte Aussage kann von der Person eher als Angriff verstanden werden
-+ Mit einer klar vormulierten Ich Botschaft lassen sich solche Blockaden vermeiden
++ Mit einer klar formulierten Ich Botschaft lassen sich solche Blockaden vermeiden
 + Ich Botschaften sollten vor allem in Feedback Situationen gesendet werden, da dem Empfänger dadurch vermittelt wird, das man sich auf der Selben Ebene wie er befindet
 + Es wird zudem Vermittelt, das der Sender ein Problem hat und nicht der Empfänger
 
@@ -32,7 +32,7 @@
 3. Wird vor allem bei Feedback Situationen verwendet
 
 ### Vorteile einer Ich Botschaft
-+ Der Sender argumentiert aus seiner Wahrnehmung heraus und veralgemeinert nicht
++ Der Sender argumentiert aus seiner Wahrnehmung heraus und verallgemeinert nicht
 + Dadurch wird klar, das ein Problem bei einem selbst liegt und nicht bei der anderen Person
 
 ### Umformungen
@@ -40,4 +40,4 @@
 |-|-|
 |Wenn du so weitermachst, schaffst du die theoretische Prüfung nie|Ich wünschte mir, dass du mehr für deine theoretische Prüfung tust|
 |Du bist schon wieder unpünktlich!|Ich muss feststellen, dass du schon wieder unpünktlich bist|
-|Immer kommst du in dreckiger Arbeitskleidung|Ich empfinde es als unamgenehm, dass du immer in dreckiger Arbeitskleidung kommst|
+|Immer kommst du in dreckiger Arbeitskleidung|Ich empfinde es als unangenehm, dass du immer in dreckiger Arbeitskleidung kommst|
