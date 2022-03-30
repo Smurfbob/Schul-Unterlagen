@@ -8,6 +8,7 @@
 
 |Kommandos|Funktion|
 |-|-|
+|SELECT * FROM table_name1 CROSS JOIN table_name2|Verbindet zwei Tabellen in der Ausgabe zu einer einzigen (Wird auch als Cross-Join bezeichnet)|
 |CREATE TABLE "Name" ();|Erstellt eine Tabelle mit dem Namen "Name"|
 |id INT|Gibt der Variable "id" den Datentypen INT|
 |id PRIMARY KEY|Setzt die Variable id als Primär Schlüssel|
@@ -22,13 +23,12 @@
 |Klammern: ""|Werden verwendet um Key Worte für Namen verwendbar zu machen|
 
 
-## Datentypen
 
-|Datentypen|Beschreibung|
-|-|-|
-|INT|Eine Zahl ohne Komma Werte|
-|VARCHAR(N)|Speichert einen String der Größe N|
-|DECIMAL(M,N)|Eine Zahl mit Komma Werten. N steht für die Größe der Zahl vor dem Komma und N steht für die Größe der Zahl nach dem Komma|
-|BLOB|Steht für "Binary Large Object" und speichert ein größeres Objekt|
-|DATE|Speichert ein Datum|
-|TIMESTAMP|Stellt einen Zeitstempel dar, welcher einen Zeitpunkt dokumentiert|
+
+## SELECT
+
++ Ein Select wird dafür verwendet Informationen aus einer Tabelle auszulesen
++ Dieser Befehl gibt die Tabelle in der Konsole aus
+``` SQL
+SELECT * From table_name;
+```
