@@ -36,6 +36,13 @@
 ``` SQL
 SELECT * person CROSS JOIN beruf
 ```
+
++ Alternativ funktioniert auch dieser Befehl
+
+``` SQL
+SELECT * FROM person,beruf WHERE person.id = beruf.id
+```
+
 ### Ausgabe
 
 |Id|Name|Age|Id|Name|Tätigkeit|
@@ -79,3 +86,12 @@ SELECT * FROM person JOIN beruf ON person.id = beruf.id;
 |2|John|24|2|Optiker|Kunden Betreuung|
 |3|Manuel|12|3|Schüler|Lernt|
 |4|Bodo|55|4|Kaufmann|Verkaufte Produkte|
+
+## Natural Join
+
++ Beim Natural Join werden automatisch spalten verglichen, die den selben Namen tragen
++ Es werden daher auch keine Spalten doppelt angezeigt
+
+``` SQL
+SELECT * FROM person NATURAL JOIN beruf;
+```
