@@ -37,12 +37,6 @@
 SELECT * person CROSS JOIN beruf
 ```
 
-+ Alternativ funktioniert auch dieser Befehl
-
-``` SQL
-SELECT * FROM person,beruf WHERE person.id = beruf.id
-```
-
 ### Ausgabe
 
 |Id|Name|Age|Id|Name|Tätigkeit|
@@ -76,6 +70,12 @@ SELECT * FROM person,beruf WHERE person.id = beruf.id
 
 ``` SQL
 SELECT * FROM person JOIN beruf ON person.id = beruf.id;
+```
+
++ Alternativ funktioniert auch dieser Befehl
+
+``` SQL
+SELECT * FROM person,beruf WHERE person.id = beruf.id
 ```
 
 ### Ausgabe
