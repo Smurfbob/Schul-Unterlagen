@@ -11,7 +11,7 @@
 + Gleichartige Transaktionen werden zu Geldstrom und Realstrom zusammengefasst
 + Nur Haushalte besitzen Arbeit, Boden und Kapital
 
-![Empty](Bilder/G%C3%BCter_und_Dienstleistungen.png)
+![Empty](Bilder/Gueter_und_Dienstleistungen.png)
 
 |Akteure|Funktion|
 |-|-|
