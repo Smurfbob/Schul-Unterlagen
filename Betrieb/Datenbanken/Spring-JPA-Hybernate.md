@@ -11,3 +11,4 @@
 |@Repository|Legt ein Repository für die Datenbank an (Sollte JpaRepository<T,P> einbinden)|
 |@GeneratedValue(strategy, generator)|Generiert einen Wert für das Attribut, die "strategy" gibt an, wie diese Attribut generiert werden soll. Zudem kann man einen "generator" übergeben, welcher den Namen einer Sequence als Parameter übernimmt|
 |@OneToMany(mappedBy)|Gibt eine Referenz (Foreign key auf eine andere Tabelle an), "mappedBy" gibt den Namen der Tabelle an, auf welche referenziert werden soll|
+|@ManyToMany||
