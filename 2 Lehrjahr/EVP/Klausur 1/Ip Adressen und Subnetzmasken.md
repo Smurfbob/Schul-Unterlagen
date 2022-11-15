@@ -24,3 +24,25 @@ Die Position wo nur Nullen sind gehören zum Host und die Stellen wo nur Einsen 
 + ***h*** steht hierbei für die Anzahl der Nullen in der Subnetzmaske
 
 Quelle: [Vernetzte IT-Systeme: 27](https://intranet.rbbk-dortmund.de/~heimann/buecher/vernetzte_it_systeme_a4/seite027.gif)
+
+```
+/*
+Gibt aus der Anzahl der Nullen in
+der Subnetzmaske die Möglichen Hosts an
+*/
+function hostFormel(zeroBits) {
+  return Math.pow(2,zeroBits)-2;
+}
+
+function subnetzFormel(oneBits) {
+  return Math.pow(2, oneBits);
+}
+
+// IP-Adressraum 192.168.0.0
+// Subnetzmaske 255.255.255.0
+// Binäre Maske 111111111 11111111 11111111 00000000 / 24 zu 8
+console.log( "Hosts: ", hostFormel(9));
+
+// Link: https://www.computerweekly.com/de/tipp/IP-Adressen-und-Subnetze-Wie-man-IPv4-Subnetzmasken-mit-der-Host-Formel-berechnet
+
+```
