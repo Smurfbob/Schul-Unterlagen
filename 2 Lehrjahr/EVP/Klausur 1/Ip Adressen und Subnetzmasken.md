@@ -1,5 +1,5 @@
 # Ip Adressen und Subnetzmasken
-
+ 
 ## Netzwerkadressierung
 
 + Ein Protokoll der Netzwerkschicht muss gewährleisten, dass jeder Knoten mit jedem anderen Knoten kommunizieren kann.
@@ -23,26 +23,33 @@ Die Position wo nur Nullen sind gehören zum Host und die Stellen wo nur Einsen 
 + Die Formel lautet ***2^h-2***
 + ***h*** steht hierbei für die Anzahl der Nullen in der Subnetzmaske
 
-Quelle: [Vernetzte IT-Systeme: 27](https://intranet.rbbk-dortmund.de/~heimann/buecher/vernetzte_it_systeme_a4/seite027.gif)
+## Subnetz Formel
++ Die Subnetzformel gibt an, wie viele Subnetze für eine Subnetzmaske vergeben werden können
++ Die Formel lautet **2^s**
++ ***s*** steht hierbei für die Anzahl der Einsen die zur Subnetzmaske hinzugefügt werden
 
-```
-/*
-Gibt aus der Anzahl der Nullen in
-der Subnetzmaske die Möglichen Hosts an
-*/
-function hostFormel(zeroBits) {
-  return Math.pow(2,zeroBits)-2;
-}
+## Öffentliche und Private Ip-Adressen
++ Öffentliche Ip-Adressen dienen zur Interaktion mit dem Internet
++ Private Ip-Adressen werden innerhalb eines lokalen Netzwerks verwendet
++ Private Ip-Adressen werden für die Kommunikation zwischen Geräten im selben Netz verwendet
++ Die öffentlichen Ip-Adressen fallen in den Rahmen
 
-function subnetzFormel(oneBits) {
-  return Math.pow(2, oneBits);
-}
+|Start|Ende|
+|-|-|
+|1.0.0.0|9.255.255.255|
+|11.0.0.0|126.255.255.255|
+|129.0.0.0|169.253.255.255|
+|169.255.0.0|172.15.255.255|
+|172.32.0.0|191.0.1.255|
+|192.0.3.0|192.88.98.255|
+|192.88.100.0|192.167.255.255|
+|192.169.0.0|198.17.255.255|
+|198.20.0.0|223.255.255.255|
 
-// IP-Adressraum 192.168.0.0
-// Subnetzmaske 255.255.255.0
-// Binäre Maske 111111111 11111111 11111111 00000000 / 24 zu 8
-console.log( "Hosts: ", hostFormel(9));
 
-// Link: https://www.computerweekly.com/de/tipp/IP-Adressen-und-Subnetze-Wie-man-IPv4-Subnetzmasken-mit-der-Host-Formel-berechnet
+## Quellen
++ [Vernetzte IT-Systeme: 27](https://intranet.rbbk-dortmund.de/~heimann/buecher/vernetzte_it_systeme_a4/seite027.gif)
++ [Computer Weekly.de](https://www.computerweekly.com/de/tipp/IP-Adressen-und-Subnetze-Wie-man-IPv4-Subnetzmasken-mit-der-Host-Formel-berechnet)
++ [Avg.com](https://www.avg.com/de/signal/public-vs-private-ip-address)
 
-```
+
