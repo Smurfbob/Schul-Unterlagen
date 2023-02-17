@@ -1,0 +1,3 @@
+- **Dispositiver Faktor**
+- - Fasst alle organisierenden, planenden und kontrollierenden Tätigkeiten zusammen
+- - Ein Patent, oder die Organisation eines Meetings sind zum Beispiel Dispositive Faktoren
