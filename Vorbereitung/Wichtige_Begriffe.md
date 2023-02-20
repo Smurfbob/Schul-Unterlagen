@@ -38,3 +38,15 @@
 |Oracle Virtualbox|Open Source Hosted Hypervisor, der au einer Vielzahl an Host-Betriebssystemen verfügbar ist|
 |KVM|Kernel-based Virtual Machine ist eine Virtualisierungssoftware, die unter Linux verfügbar ist|
 |Citrix Hypervisor|Wurde aus dem Open Source XenServer-Projekt entwickelt. In der kostenlosen Version ist nur ein eingeschränkter Funktionsumfang vorhanden. Die Lizenzierung erfolgt meist pro CPU-Sockel|
+
+
+## Protokolle
+
+- **publish-subscribe Protokoll**
+- - Beim publish subscribe Protokoll gibt es einen Sender und eine unbeschränkte Anzahl an Empfängern
+- - Sobald der Sender, meist ein Server, eine Nachricht ausgibt, wird dies allen offenen Empfängern zugestellt
+
+- **Request-Response Protokoll**
+- Beim Request Response Protokoll gibt es einen Client und einen Server
+- Der Client stellt eine Anfrage an den Server und der Server soll diese beantworten
+- Die Verbindung bleibt so lange offen, bis die Übertragung übermittelt ist, oder ein Zeitfenster ausgelaufen ist
