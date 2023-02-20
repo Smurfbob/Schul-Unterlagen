@@ -11,14 +11,12 @@
 |Bezugspreis|Der Transport Preis wird mit der gekauften Menge multipliziert und vom Bareinkaufspreis abgezogen. Der wert welcher übrig bleibt ist der Bezugspreis|
 |Stück Preis|Der Stück preis ergibt sich durch die Division des Bezugspreises durch die gekaufte Menge|
 
-
-
 ## Nutzwertanalyse
 
 - Bei einer Nutzwertanalyse muss eine Entscheidung in Abhängigkeit von verschiedenen Kriterien getroffen werden
 - Hierbei werden die Alternativen nach den gegebenen Kriterien bewertet
 - Die Kriterien werden jeweils mit einem Prozentualen Faktor bewertet, um welchen der Punktewert multipliziert wird. Dies soll die Gewichtung der Repräsentieren
-- Die Bewertung eines Geräts 
+- Die Bewertung eines Geräts
 
 ### Beispiel
 

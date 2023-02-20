@@ -46,3 +46,28 @@
 - **Inkrementelle Sicherung**
 - - Bei der Inkrementellen Sicherung wird bereits eine Vollsicherung und eine Differenzielle Sicherung benötigt
 - - Es werden nur die Daten ersetzt, welche sich auf Basis der Vollsicherung, oder einer der Inkrementellen Sicherungen verändert haben
+
+## Bedrohungen Gefahren und Schäden
+- **Mögliche Fehlerquellen**
+- 1. Systemausfall
+- 2. Fehlbedienung durch das Personal
+- 3. Angriff auf das Netzwerk
+- 4. Nutzung der Firmen Hardware im privaten
+
+- **Vermeidungsstrategien**
+- 1. Es sollte möglichst früh auf qualitativ hochwertige Hardware gesetzt werden. Zudem sollte nur geprüfte software zum Einsatz kommen. Alte Geräte sollten möglichst ersetzt werden
+- 2. Es sollten klare Richtlinien gelten, wie das unterbinden von privaten Installationen, virenscanner und regelmässige Updates
+- 3. Es sollte ein Firewall und ein IDS (Intrusion Detection System) eingerichtet werden
+- 4. Die Software sollte zentral installiert werden. Zudem sollten nur registrierten Geräten der Zugang ins Netzwerk gestattet sein. Die private Nutzung sollte zudem durch ein Regelwerk reguliert sein.
+
+
+## WPA2
+
+- WPA2 wird verwendet, damit sich ein Client für die Nutzung eines Netzwerkes Authentifizieren kann
+- Zuerst sendet Access Point dem Client eine zufällig erstellte Zahl (Nonce Number)
+- Mit dieser Zufallszahl ist der Client dazu in der Lage sich den **PTK** (Pairwise Transient Key) zu erzeugen
+- Bei der Generierung werden auch MAC-Adresse, WLAN Password, und eigene Zufallswerte mit einbezogen
+- Dieser Wert wird zusammen mit einem MIC (Message integrity Code) zurück an den Access Point gesendet, woraufhin dieser sich daraus eine **PTK** errechnet
+- Mithilfe dieser **PTKs** kann jetzt verschlüsselt kommuniziert werden
+- Damit der Client auch mit anderen Geräten kommunizieren kann, versendet der Access Point abschließen noch einen **GTK** (Group Transient Key) 
+
