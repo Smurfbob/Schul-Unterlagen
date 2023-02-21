@@ -50,3 +50,11 @@
 - Beim Request Response Protokoll gibt es einen Client und einen Server
 - Der Client stellt eine Anfrage an den Server und der Server soll diese beantworten
 - Die Verbindung bleibt so lange offen, bis die Übertragung übermittelt ist, oder ein Zeitfenster ausgelaufen ist
+
+
+## Informationsangebote
+
+- **Online Handbuch**
+- - Stellt online Informationen und Abläufe bereit
+- **Online-Wiki**
+- - Bietet Methoden zur Erweiterung von Wissen un Kompetenzen innerhalb eines Unternehmens 

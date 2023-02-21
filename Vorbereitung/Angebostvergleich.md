@@ -45,3 +45,11 @@
 - - Stand Rechner: 370 Punkte
 - Das Handy ist mit 525 Punkten die beste Alternative. Danach folgt der Laptop mit 470 Punkten, dahinter ist der Stand Rechner mist 370 Punkten
 
+
+## Auftragsverarbeitung nach der DSGVO
+
+- Sobald Personen bezogene Daten verarbeitet werden, muss ein Auftragsverarbeitungsvertrag geschlossen werden
+- In diesem Vertrag wird geregelt, das der Auftragsverarbeiter an den Auftraggeber gebunden ist
+- Es wird zudem festgelegt, welche Daten verarbeitet werde, wie lange diese gespeichert werden und was der Zweck der Verarbeitung ist
+- Die Regeln der DSGVO gelten im gesamten Raum der EU weshalb es relativ leicht ist innerhalb der EU Staaten Unternehmungen zu führen
+
