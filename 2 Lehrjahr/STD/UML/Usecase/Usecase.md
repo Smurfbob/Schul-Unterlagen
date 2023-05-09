@@ -8,7 +8,42 @@
 
 ---
 
-## Elemente eines Anwendungsfalldiagramm
+## Komponenten eines Anwendungsfalldiagramms
+
+- Akteure
+    - Nutzer
+    - Organisationen
+    - Externe Systeme
+    - Jeder Akteur Produziert oder konsumiert Daten
+- System
+    - Bestimmte Abfolge von Aktionen zwischen Akteuren
+    - Wird teils auch als Szenario bezeichnet
+- Ziele
+    - Das Diagramm sollte die Aktivitäten und Varianten darstellen, die zum Ziel führen
+
+
+## Symbole
+
+- Anwendungsfälle
+    - Werden in horizontal geformten Ovalen dargestellt
+    - Stellen Anwendungszwecke eines Nutzers dar
+- Akteure
+    - Strichmännchen zur Darstellung der Personen
+- Assoziationen
+    - Eine Linie zwischen Akteuren und Anwendungsfällen
+- Systemgrenzen
+    - Quadrat in welchem die Anwendungsfälle wohnen und sich wohl fühlen
+- Pakete
+    - Gruppieren Anwendungsfälle
+
+
+
+
+
+
+## Quellen
+
+[Lucidchart](https://www.lucidchart.com/pages/de/uml-anwendungsfalldiagramm)
 
 
 
