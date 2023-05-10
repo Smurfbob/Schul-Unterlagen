@@ -45,7 +45,7 @@
 
 ## Quellen
 
-[Lucid Chart](https://www.lucidchart.com/pages/de/uml-aktivitatsdiagramme)
-[Youtube Thomas Grosser](https://www.youtube.com/watch?v=q3xEiJzCLsg)
+- [Lucid Chart](https://www.lucidchart.com/pages/de/uml-aktivitatsdiagramme)
+- [Youtube Thomas Grosser](https://www.youtube.com/watch?v=q3xEiJzCLsg)
 
 

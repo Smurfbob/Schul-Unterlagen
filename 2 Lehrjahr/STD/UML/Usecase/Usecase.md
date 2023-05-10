@@ -37,10 +37,6 @@
     - Gruppieren Anwendungsfälle
 
 
-
-
-
-
 ## Quellen
 
 [Lucidchart](https://www.lucidchart.com/pages/de/uml-anwendungsfalldiagramm)
