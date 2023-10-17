@@ -1,7 +1,6 @@
 # Algorythmen und Datenstrukturen
 
 ## Array
-- Korrekte Aussagen über ein Array
 
 - Bei einem Array wird ein bestimmter Speicherblock mit einer festenGröße reserviert
 
