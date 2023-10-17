@@ -28,7 +28,9 @@
 
 - Hat die Operationen Enqueue und Dequeue
 - Eine Deque hat die Operationen
+  
 |Operation|Ergebnis|
+|-|-|
 |Push|Fügt das Element an das linke Ende der Liste|
 |Put|Fügt das Element an das rechte Ende der Liste|
 |Get|Nimmt vom rechten Ende der Liste|
