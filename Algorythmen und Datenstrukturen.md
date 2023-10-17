@@ -49,5 +49,10 @@
 - Last in First Out
 - Elemente werden oben/hinten angehängt und von oben/hinten wieder weggenommen
 
+## Schleifen
+- Beim Iterieren über eine Sammlung mit einer Foreach Schleife dürfen keine Elemente hinzugefügt oder entfernt werden.
+- Bei einer ForEach-Schleife habe ich keine separate Zählvariable
+- Mit ForEach-Schleifen kann über alle Elemente einer Collection iteriert werden.
+- Laut Hpi sind ForEach Schleifen langsamer als for Schleifen
 
 
