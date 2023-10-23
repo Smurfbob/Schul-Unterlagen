@@ -89,3 +89,23 @@
 - Wir vergleichen benachbarte Elemente und tauschen diese, wenn siein der falschen Reihenfolge sind. Das wiederholen wir so lange, bis die Liste sortiert ist.
 - Bubblesort nutzt zwei ineinander verschachtelte Schleifen
 - Nach dem ersten Durchlauf der äußeren Schliefe ist mindestens ein Element an der richtigen Position.
+
+## Baum Strukturen
+
+### Baum Strukturen
+## Grundlagen
+- Wurzel Knoten
+  - Ist der Ursprungsknoten eines Trees
+- Kind Knoten
+  - Ein Kind Knoten ist an einen übergeordneten Knoten verbunden
+  - Die Verbindung zum übergeordneten Konten wird als **Verzweigung bezeichnet**
+  - Knoten die eine Verzweigung zum selben übergeordneten Knoten haben werden als **Geschwister** bezeichnet
+- Inner Knoten
+  - Sind Knoten welche selbst einen Parent Knoten haben und Kinderknoten besitzen
+- Blatt Knoten
+  - Sind die Knoten, welche sich am Ende des Baumes befinden und selbst keine Kind-Knoten mehr haben
+- Baum Höhe und Tiefe
+  - Bei der Baum höhe bilden alle Geschwister Knoten die auf der gleichen Ebene liegen die Höhe des Baums
+  - Bei der Tiefe wird die Anzahl der Verbindungen bis zum Wurzelknoten gezählt
+- Orientierung im Baum
+  - Es ist mögliche sich eine Auflistung von Richtungen zu merken, mit welcher man in der Lage ist zu einem bestimmten Knoten zu kommen.
