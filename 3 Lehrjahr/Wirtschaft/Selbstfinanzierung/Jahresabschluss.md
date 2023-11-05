@@ -20,3 +20,11 @@
 
 - Es besteht die Möglichkeit, das die Anteilseigner ihren Anteil über den Nennwert erwerben. Dieser Wert wird nicht als Gewinn gewertet.
 - Die Differenz zwischen dem eigentlichen Nennwert und dem Bezahlten fließt mit in die Kapitalrücklagen
+
+---
+
+## Gewinnrücklagen
+
+- Bildet sich aus dem bereits versteuerten Jahresgewinn
+- Dieser Teil stellt eine eigenkapitalerhöhung dar, da nicht der gesamte Gewinn an die Anteilseigner ausgegeben wird.
+- Akteingesellschaften müssen gesetzlich Vorgeschriebene Rücklagen von 5% des um einen Verlustvortrag geminderten Jahresüberschusses einzustellen, bis die gesetzlichen Rücklage und die Kapitalrücklage zusammen mindestens 10% des Grundkapitals erreichen.
