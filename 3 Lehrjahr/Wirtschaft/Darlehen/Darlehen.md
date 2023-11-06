@@ -12,7 +12,6 @@
 
 - $Darlehensbetrag = 50.000$
 - $Laufzeit = 5$
-- $Agio = 2\%$
 - $Nominalzinssatz = 10\%$
 
 ---
