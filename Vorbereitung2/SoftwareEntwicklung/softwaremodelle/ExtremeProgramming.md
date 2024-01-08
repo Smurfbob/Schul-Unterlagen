@@ -1,6 +1,7 @@
 # Extreme Programming
 - Hat das Ziel eine hohe Flexibilität bei der Entwicklung zu fördern 
 - Es setzt auch viel Wert auf die Zusammenarbeit zwischen Entwicklern
+- Extreme Programming eignet sich vor allem für Projekte deren Anforderungen sich schnell ändern
 
 # Prinzipien
 1. Kommunikation
