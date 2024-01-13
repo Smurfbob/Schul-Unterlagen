@@ -15,4 +15,8 @@
 
 
 
- 
+## Berechnung der Kapazität
+
+### Raid 5
+- Bei einem Raid 5 wird die Kapazität durch die die Speichergröße der kleinsten Platte multipliziert mit der Anzahl der verwendeten Platten minus die Größe der kleinsten Platte Berechnet.
+    - (kleinstePlatte * AnzahlPlatten) - kleinstePlatte
