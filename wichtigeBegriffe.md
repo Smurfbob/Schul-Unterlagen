@@ -26,4 +26,40 @@
 |Rack Server|Ein Rack Server wird in ein meist 19 Zoll breites Rack eingebaut. Rack Server können übereinander eingebaut werden|
 |Blade-Server|Ein Blade Server ist ein ComputerSystem, welches allgemeine Funktionen wie Lüftung und Stromversorgung aus einem Chassis bekommt. In das Chassis können mehre Blades(Computer) eingebunden werden|
 |Chassis|Eine Art Hülle die Funktionen wie Lüftung und Stromversorgung bereit stellt. In dieses können Computer (Blades) eingebaut werden|
+|Service Level Agreement|Reguliert widerkehrende Dienstleistungen bei einem Produkt. Es wird zum Beispiel Leistungsumfang, Reaktionszeit und Schnelligkeit der Verarbeitung geregelt|
+|Level 1 Support|Ist die Erste Stelle, an welche sich der Kunde für eine Problemlösung wendet|
+|Level 2 Support|Ist die Zweite Stelle an die sich der Kunde wendet. Diese wird als erste Eskalationstufe bezeichnet und Personen mit Fachwissen sind vor Ort|
+|Level 3 Support|Ist die zweite Eskalationsstufe und es handelt sich um Spezialisten vor Ort|
+|API|Ist eine Software Schnittstelle und stellt Interaktionen mit einer Software Komponente bereit|
+|REST|Steht für Representational State Transfer und wird bei der Kommunikation zwischen verteilten Systemen eingesetzt. Es ist zustandslos, was bedeuted, das jede Anfrage für sich Vollständig ist und alle nötigen Informationen enthält|
+|SOAP|Steht für Simple OBject Access Protocol und verwendet Xml für die Übertragung von Daten. Kann SMPT oder HTTP als Protocol verwenden. Es definiert strenge Regeln für den Datenaustausch|
+|CORBA|Steht für Common Object Request Broker Architecture und arbeitet Objekt orientiert|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
+|-|-|
 |-|-|
