@@ -34,32 +34,38 @@
 |REST|Steht für Representational State Transfer und wird bei der Kommunikation zwischen verteilten Systemen eingesetzt. Es ist zustandslos, was bedeuted, das jede Anfrage für sich Vollständig ist und alle nötigen Informationen enthält|
 |SOAP|Steht für Simple OBject Access Protocol und verwendet Xml für die Übertragung von Daten. Kann SMPT oder HTTP als Protocol verwenden. Es definiert strenge Regeln für den Datenaustausch|
 |CORBA|Steht für Common Object Request Broker Architecture und arbeitet Objekt orientiert|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
-|-|-|
+| Scrum | Agiles Framework für die Entwicklung von Software und anderen Produkten, das auf kurzen, iterativen Entwicklungszyklen basiert. |
+| Kanban | Agiles Framework für die Verwaltung von Arbeitsprozessen, das sich auf die Visualisierung von Arbeit und die kontinuierliche Verbesserung konzentriert. |
+| Produktionsprozess | Abfolge von Schritten, die zur Herstellung eines Produkts oder einer Dienstleistung erforderlich sind. |
+| Arbeitsabläufe | Abfolge von Aktivitäten, die zur Erfüllung einer Aufgabe oder eines Ziels erforderlich sind. |
+| Agile | Ansatz für die Entwicklung von Software und anderen Produkten, der sich auf die Flexibilität und Anpassungsfähigkeit an sich ändernde Anforderungen konzentriert. |
+| Softwareentwicklungsmodell | Rahmenwerk für die Entwicklung von Software, das die Struktur, die Abläufe und die Artefakte der Entwicklung definiert. |
+| Projektplanung | Prozess der Definition der Ziele, des Umfangs, des Zeitplans, des Budgets und der Ressourcen eines Projekts. |
+| Zeitplanung | Prozess der Festlegung der Termine für die einzelnen Aufgaben eines Projekts. |
+| Projektphasen | Abfolge von aufeinanderfolgenden Abschnitten, in die ein Projekt unterteilt ist. |
+| Netzplan | Diagramm, das die Beziehungen zwischen den einzelnen Aufgaben eines Projekts darstellt. |
+| Gantt-Diagramm | Diagramm, das die geplanten Termine für die einzelnen Aufgaben eines Projekts darstellt. |
+| Projektmanagement | Fachgebiet, das sich mit der Planung, Steuerung und Kontrolle von Projekten befasst. |
+| Magisches Dreieck | Modell, das die drei grundlegenden Zielkonflikte des Projektmanagements darstellt: **Zeit**, **Kosten** und **Qualität**. |
+| DIN EN ISO 9921 | Norm für die Begriffe und Definitionen im Projektmanagement. |
+| DIN 69901 | Norm für die Projektmanagement-Prozesse. |
+| PMBOK | A Guide to the Project Management Body of Knowledge, ein Standardwerk für das Projektmanagement. |
+| SOAP | Simple Object Access Protocol, ein Protokoll zur Kommunikation zwischen Anwendungen. |
+| IPMA | International Project Management Association, eine internationale Vereinigung von Projektmanagern. |
+| REST | Representational State Transfer, ein Architekturstil für verteilte Systeme. |
+| PRINCE2 | PRojects IN Controlled Environments, ein Framework für das Projektmanagement. |
+| ISAPI | Internet Server Application Programming Interface, eine API für die Entwicklung von Web-Anwendungen. |
+| Vorbereitung | Phase des Projektmanagements, in der die Grundlagen für das Projekt gelegt werden. |
+| Durchführung | Phase des Projektmanagements, in der die geplanten Aktivitäten durchgeführt werden. |
+| Abschluss | Phase des Projektmanagements, in der das Projekt abgeschlossen und die Ergebnisse evaluiert werden. |
+| Rollen und Verantwortlichkeiten | Zuordnung von Aufgaben und Verantwortungen an die einzelnen Beteiligten eines Projekts. |
+| Kommunikation | Austausch von Informationen zwischen den Beteiligten eines Projekts. |
+| Risikomanagement | Prozess zur Identifizierung, Bewertung und Behandlung von Risiken, die das Projekt beeinflussen können. |
+| Change Management | Prozess zur Steuerung von Änderungen am Projektumfang, am Zeitplan oder am Budget. |
+| Qualitätsmanagement | Prozess zur Sicherstellung der Einhaltung der Qualitätsstandards für das Projekt. |
+| Kostenmanagement | Prozess zur Planung, Steuerung und Kontrolle der Kosten eines Projekts. |
+| Ressourcenmanagement | Prozess zur Planung, Steuerung und Kontrolle der Ressourcen eines Projekts. |
+| Terminmanagement | Prozess zur Planung, Steuerung und Kontrolle der Termine eines Projekts. |
+| Auftraggeber | Person oder Organisation, die das Projekt in Auftrag gibt. |
+| Projektmanager | Person, die für die Leitung und Steuerung eines Projekts verantwortlich ist. |
+| Teammitglieder | Personen, die an der Durchführung des Projekts beteiligt sind. |
