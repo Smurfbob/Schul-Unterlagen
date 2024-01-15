@@ -5,7 +5,7 @@
 
 ## Abteilungen
 
-## Abteilung A
+### Abteilung A
 - Eintragungen sind deklaratorisch (Rechtesbezeugend)
 	- Eine OHG, oder eine KG existieren schon vor der eigentlichen Eintragung
 
@@ -15,7 +15,7 @@
 	- GMBH
 	- KG
 
-## Abteilung B
+### Abteilung B
 
 - Eintragungen sind konstitutiv (Rechtserzeugend)
 	- Juristische Personen werden erst in diesem Momen rechtsfähig
@@ -27,6 +27,6 @@
 	- KG
 	- OHG
 
-## Genossenschaftsregister
+### Genossenschaftsregister
 - Genossenschaften werden in einem separierten Register geführt
 - Wird beim Amtsgericht geführt
