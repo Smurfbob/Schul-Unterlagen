@@ -69,3 +69,4 @@
 | Auftraggeber | Person oder Organisation, die das Projekt in Auftrag gibt. |
 | Projektmanager | Person, die für die Leitung und Steuerung eines Projekts verantwortlich ist. |
 | Teammitglieder | Personen, die an der Durchführung des Projekts beteiligt sind. |
+|Struktogramm|Stellt den Ablauf eines Programmes in einem Block dar. Dieser Block teilt sich bei einer If klausel in zwei geteilte Unterblöcke auf. Um einen Abschnitt in eine Schleife zu bringen, wird ein Block um diesen Code gemacht und die Abbruch Bedingung angegeben|
